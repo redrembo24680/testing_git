@@ -36,3 +36,10 @@ def module(num1, num2):
 
 
 module(num1, num2)
+
+name = input("Enter your name: ")
+
+def upper_case(name):
+    print(name.upper())
+
+upper_case(name)
