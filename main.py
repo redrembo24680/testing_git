@@ -5,3 +5,13 @@ def mult(num1, num2):
     print(f"result of multiply is {num1*num2}")
 
 mult(num1, num2)
+
+def suming(num1, num2):
+    print(f"result of suming is {num1+num2}")
+
+suming(num1, num2)
+
+def raise_pow(num1, num2):
+    print(f"result of suming is {pow(num1, num2)}")
+
+raise_pow(num1, num2)
