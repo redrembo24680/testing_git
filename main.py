@@ -43,3 +43,8 @@ def upper_case(name):
     print(name.upper())
 
 upper_case(name)
+
+def lower_case(name):
+    print(name.lower())
+
+lower_case(name)
