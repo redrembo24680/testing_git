@@ -15,3 +15,14 @@ def raise_pow(num1, num2):
     print(f"result of suming is {pow(num1, num2)}")
 
 raise_pow(num1, num2)
+
+def subtraction(num1, num2):
+    print(f"result of subtraction is {num1-num2}")
+
+subtraction(num1, num2)
+
+def module(num1, num2):
+    print(f"result of first`s num module is {abs(num1)} second`s num module is {abs(num2)}")
+
+module(num1, num2)
+
